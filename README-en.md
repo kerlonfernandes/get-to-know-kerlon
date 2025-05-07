@@ -58,7 +58,7 @@ A comprehensive system for athlete registration in sporting events, featuring:
 
 ---
 
-[Download CV](#) | <a href="https://kerlon.com.br/portifolio" target="_blank">Portfolio</a>
+[Download CV](https://kerlon.com.br/assets/resumes/resume_en-us.pdf) | <a href="https://kerlon.com.br/portifolio" target="_blank">Portfolio</a>
 
 ```python
 print("yes, this page was developed with a lot of love")
