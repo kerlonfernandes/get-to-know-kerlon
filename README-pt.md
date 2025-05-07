@@ -61,7 +61,7 @@ Sistema completo para inscrição de atletas em eventos esportivos, incluindo:
 
 ---
 
-[Download CV](#) | <a href="https://kerlon.com.br/portifolio" target="_blank">Portfolio</a>
+[Download CV](https://kerlon.com.br/assets/resumes/resume_pt-br.pdf) | <a href="https://kerlon.com.br/portifolio" target="_blank">Portfolio</a>
 
 ```python
 print("sim essa pagina foi desenvolvida com muito amor")
