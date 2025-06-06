@@ -57,6 +57,7 @@ Real-time athlete timing system that:
 - Monitors and displays athlete results
 - Provides real-time updates
 - Generates performance reports
+
 I worked as a developer, creating internal tools, APIs, and projects that are already in commercial production.
 
 #### <a href="https://suainscricao.com" target="_blank">Sua Inscrição</a>
