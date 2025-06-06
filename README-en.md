@@ -5,9 +5,9 @@
 
 ### 👨‍💻 Backend Developer
 
-Hello, I'm Kerlon, a Backend Developer with over three years of practical experience and a software development student. I currently work as a developer at UNIVC (Centro Universitário Vale do Cricaré), where I am also pursuing my degree.
+Hello, I'm Kerlon, a Backend Developer with over three years of practical experience and a software development student. Currently, I work as a developer at UNIVC (Centro Universitário Vale do Cricaré), where I'm also pursuing my degree.
 
-I enjoy turning ideas into efficient solutions through programming and constantly seek to learn more and improve my skills with the technologies I use. My focus is on continuing to grow professionally and applying what I know to contribute to the tech world.
+I enjoy transforming ideas into efficient solutions through programming and I'm always looking to learn more and improve in the technologies I use. My focus is to continue growing professionally and apply what I know to contribute to the technology world.
 
 ### 🚀 Skills & Technologies
 
@@ -21,6 +21,7 @@ I enjoy turning ideas into efficient solutions through programming and constantl
 - JavaScript
 - jQuery
 - Bootstrap
+- WordPress
 
 #### Frameworks & Tools
 - Flask
@@ -28,6 +29,7 @@ I enjoy turning ideas into efficient solutions through programming and constantl
 - MySQL
 - SQLite
 - Firebase
+- Laravel
 
 ### 💼 Professional Experience
 
@@ -38,28 +40,56 @@ I enjoy turning ideas into efficient solutions through programming and constantl
 - Implementation of new features and improvements
 - Development of internal tools for the institution
 
-#### <a href="https://mytempo.esp.br" target="_blank">MyTempo</a>
-A real-time athlete timing system that:
-- Tracks and displays athlete results
-- Provides real-time updates
-- Generates performance reports
+### 🚀 Personal Projects
 
-#### <a href="https://suainscricao.com" target="_blank">Sua Inscrição</a>
-A comprehensive system for athlete registration in sporting events, featuring:
-- Management of sporting events
-- Registration for sporting events
-- Payment processing integration
-- Management of events and registrations
+#### <a href="https://advoguee.com" target="_blank">Advoguee</a>
+Complete management system for law firms that offers:
+- Intelligent client and document management
+- Automatic document generation
+- Administrative process automation
+
+#### <a href="https://ondbay.com" target="_blank">OndBay</a>
+Organization for software development services that offers:
+- Custom web and mobile development
+- UI/UX design focused on user experience
+- Backend development and robust APIs
+- Innovative technological solutions for businesses
+- Certified and specialized technology team
+- Continuous technical support and personalized service
+
+### 💻 Developed Projects
+
+#### <a href="https://agendamento.hubdocricare.com.br" target="_blank">UNIVC Scheduling System</a>
+- Scheduling platform for the functional studio
+- Schedule and training management
+- Capacity control system
+
+#### <a href="https://siteem7.hubdocricare.com.br" target="_blank">Site in 7 Days</a>
+- Agile web development service
+- Professional website delivery in 7 days
+
+#### <a href="https://hubdocricare.com.br" target="_blank">Hub do Cricaré</a>
+- Company's institutional portal
+- Project and services showcase
+- Integrated contact system
+
+#### <a href="https://aguiar.hubdocricare.com.br" target="_blank">Aguiar Clinic</a>
+- Institutional website for ophthalmology clinic
+- Insurance and services area
+
+#### <a href="https://lainenutri.com.br" target="_blank">Laíne Nutri</a>
+- Professional website for nutritionist
 
 ### 📫 Contact
 - Email: <a href="mailto:kerlon1221@gmail.com">kerlon1221@gmail.com</a>
 - GitHub: <a href="https://github.com/kerlonfernandes" target="_blank">https://github.com/kerlonfernandes</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/kerlon-fernandes/" target="_blank">https://www.linkedin.com/in/kerlon-fernandes/</a>
+- WhatsApp: <a href="wa.me/+5527997428095" target="_blank">+5527997428095</a>
 
 ---
 
 [Download CV](https://kerlon.com.br/assets/resumes/resume_en-us.pdf) | <a href="https://kerlon.com.br/portifolio" target="_blank">Portfolio</a>
 
 ```python
-print("yes, this page was developed with a lot of love")
-```
+print(":)")
+``` 
