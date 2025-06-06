@@ -31,6 +31,12 @@ I enjoy transforming ideas into efficient solutions through programming and I'm 
 - Firebase
 - Laravel
 
+### 🎓 Academic Background
+
+#### <a href="https://univc.com.br" target="_blank">Centro Universitário Vale do Cricaré - UNIVC</a>
+**Systems Analysis and Development**
+- In progress
+
 ### 💼 Professional Experience
 
 #### <a href="https://univc.com.br" target="_blank">UNIVC - Centro Universitário Vale do Cricaré</a>
@@ -40,10 +46,24 @@ I enjoy transforming ideas into efficient solutions through programming and I'm 
 - Implementation of new features and improvements
 - Development of internal tools for the institution
 
+#### <a href="https://mytempo.esp.br" target="_blank">MyTempo</a>
+A real-time athlete timing system that:
+- Tracks and displays athlete results
+- Provides real-time updates
+- Generates performance reports
+I worked as a developer, creating internal tools, APIs, and projects that are already in commercial production.
+
+#### <a href="https://suainscricao.com" target="_blank">Sua Inscrição</a>
+A comprehensive system for athlete registration in sporting events, including:
+- Management of sporting events
+- Registration for sporting events
+- Payment processing integration
+- Management of events and registrations
+
 ### 🚀 Personal Projects
 
 #### <a href="https://advoguee.com" target="_blank">Advoguee</a>
-Complete management system for law firms that offers:
+Innovative system designed to meet lawyers' needs in client data management:
 - Intelligent client and document management
 - Automatic document generation
 - Administrative process automation
@@ -91,5 +111,5 @@ Organization for software development services that offers:
 [Download CV](https://kerlon.com.br/assets/resumes/resume_en-us.pdf) | <a href="https://kerlon.com.br/portifolio" target="_blank">Portfolio</a>
 
 ```python
-print(":)")
-``` 
+print("thanks for visiting :)")
+```
