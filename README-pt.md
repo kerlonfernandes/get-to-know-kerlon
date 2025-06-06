@@ -57,6 +57,7 @@ Sistema de cronometragem de atletas em tempo real que:
 - Monitora e exibe resultados dos atletas
 - Fornece atualizações em tempo real
 - Gera relatórios de desempenho
+
 Atuei como desenvolvedor, criando ferramentas internas, APIs e projetos que já estão em produção comercial.
 
 #### <a href="https://suainscricao.com" target="_blank">Sua Inscrição</a>
