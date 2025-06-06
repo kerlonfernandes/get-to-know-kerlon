@@ -116,7 +116,7 @@ Organização para prestação de serviços de desenvolvimento de software que o
 - Email: <a href="mailto:kerlon1221@gmail.com">kerlon1221@gmail.com</a>
 - GitHub: <a href="https://github.com/kerlonfernandes" target="_blank">https://github.com/kerlonfernandes</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/kerlon-fernandes/" target="_blank">https://www.linkedin.com/in/kerlon-fernandes/</a>
-- Whatsapp: <a href="wa.me/+5527997428095" target="_blank">+5527997428095</a>
+- Whatsapp: <a href="https://wa.me/+5527997428095" target="_blank">+5527997428095</a>
 
 ---
 
