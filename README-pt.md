@@ -1,5 +1,3 @@
-[English](./?lang=en) | [Português](./?lang=pt)
-
 <a name="português"></a>
 ## Português
 
@@ -22,6 +20,7 @@ Gosto de transformar ideias em soluções eficientes através da programação e
 - jQuery
 - Bootstrap
 - WordPress
+
 #### Frameworks & Ferramentas
 - Flask
 - Git / GitHub
@@ -30,7 +29,14 @@ Gosto de transformar ideias em soluções eficientes através da programação e
 - Firebase
 - Laravel
 
+### 🎓 Formação Acadêmica
+
+#### <a href="https://univc.com.br" target="_blank">Centro Universitário Vale do Cricaré - UNIVC</a>
+**Análise e Desenvolvimento de Sistemas**
+- Cursando
+
 ### 💼 Experiência Profissional
+
 
 #### <a href="https://univc.com.br" target="_blank">UNIVC - Centro Universitário Vale do Cricaré</a>
 **Desenvolvedor**
@@ -39,13 +45,29 @@ Gosto de transformar ideias em soluções eficientes através da programação e
 - Implementação de novas funcionalidades e melhorias
 - Desenvolvimento de ferramentas internas para a instituição
 
+#### <a href="https://mytempo.esp.br" target="_blank">MyTempo</a>
+Sistema de cronometragem de atletas em tempo real que:
+- Monitora e exibe resultados dos atletas
+- Fornece atualizações em tempo real
+- Gera relatórios de desempenho
+Atuei como desenvolvedor, criando ferramentas internas, APIs e projetos que já estão em produção comercial.
+
+
+#### <a href="https://suainscricao.com" target="_blank">Sua Inscrição</a>
+Sistema completo para inscrição de atletas em eventos esportivos, incluindo:
+- Gerenciamento de eventos esportivos
+- Inscrição para os eventos esportivos
+- Integração com processamento de pagamentos
+- Gerenciamento dos eventos e inscrições
+
 ### 🚀 Projetos Pessoais
 
 #### <a href="https://advoguee.com" target="_blank">Advoguee</a>
-Sistema completo de gestão para escritórios de advocacia que oferece:
+Sistema inovador projetado para atender às necessidades dos advogados em gestão de dados de clientes:
 - Gestão inteligente de clientes e documentos
 - Geração automática de documentos
 - Automação de processos administrativos
+
 
 #### <a href="https://ondbay.com" target="_blank">OndBay</a>
 Organização para prestação de serviços de desenvolvimento de software que oferece:
@@ -90,5 +112,5 @@ Organização para prestação de serviços de desenvolvimento de software que o
 [Download CV](https://kerlon.com.br/assets/resumes/resume_pt-br.pdf) | <a href="https://kerlon.com.br/portifolio" target="_blank">Portfolio</a>
 
 ```python
-print(":)")
+print("obrigado por visitar :)")
 ```
