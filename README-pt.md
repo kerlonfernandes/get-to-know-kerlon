@@ -9,6 +9,8 @@ Olá, sou o Kerlon, desenvolvedor Backend com mais de três anos de experiência
 
 Gosto de transformar ideias em soluções eficientes através da programação e estou sempre em busca de aprender mais e me aprimorar nas tecnologias que utilizo. Meu foco é continuar crescendo profissionalmente e aplicar o que sei para contribuir no mundo da tecnologia.
 
+---
+
 ### 🚀 Habilidades & Tecnologias
 
 #### Desenvolvimento Backend
@@ -31,14 +33,17 @@ Gosto de transformar ideias em soluções eficientes através da programação e
 - Firebase
 - Laravel
 
+---
+
 ### 🎓 Formação Acadêmica
 
 #### <a href="https://univc.com.br" target="_blank">Centro Universitário Vale do Cricaré - UNIVC</a>
 **Análise e Desenvolvimento de Sistemas**
 - Cursando
 
-### 💼 Experiência Profissional
+---
 
+### 💼 Experiência Profissional
 
 #### <a href="https://univc.com.br" target="_blank">UNIVC - Centro Universitário Vale do Cricaré</a>
 **Desenvolvedor**
@@ -54,13 +59,14 @@ Sistema de cronometragem de atletas em tempo real que:
 - Gera relatórios de desempenho
 Atuei como desenvolvedor, criando ferramentas internas, APIs e projetos que já estão em produção comercial.
 
-
 #### <a href="https://suainscricao.com" target="_blank">Sua Inscrição</a>
 Sistema completo para inscrição de atletas em eventos esportivos, incluindo:
 - Gerenciamento de eventos esportivos
 - Inscrição para os eventos esportivos
 - Integração com processamento de pagamentos
 - Gerenciamento dos eventos e inscrições
+
+---
 
 ### 🚀 Projetos Pessoais
 
@@ -70,7 +76,6 @@ Sistema inovador projetado para atender às necessidades dos advogados em gestã
 - Geração automática de documentos
 - Automação de processos administrativos
 
-
 #### <a href="https://ondbay.com" target="_blank">OndBay</a>
 Organização para prestação de serviços de desenvolvimento de software que oferece:
 - Desenvolvimento web e mobile personalizado
@@ -79,6 +84,8 @@ Organização para prestação de serviços de desenvolvimento de software que o
 - Soluções tecnológicas inovadoras para negócios
 - Equipe certificada e especializada em tecnologia
 - Suporte técnico contínuo e atendimento personalizado
+
+---
 
 ### 💻 Projetos Desenvolvidos
 
@@ -102,6 +109,8 @@ Organização para prestação de serviços de desenvolvimento de software que o
 
 #### <a href="https://lainenutri.com.br" target="_blank">Laíne Nutri</a>
 - Site profissional para nutricionista
+
+---
 
 ### 📫 Contato
 - Email: <a href="mailto:kerlon1221@gmail.com">kerlon1221@gmail.com</a>
