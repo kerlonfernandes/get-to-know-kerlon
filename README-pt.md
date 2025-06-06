@@ -1,7 +1,5 @@
 [English](./?lang=en) | [Português](./?lang=pt)
 
-[Projetos](./area=proj)
-
 <a name="português"></a>
 ## Português
 
@@ -23,13 +21,14 @@ Gosto de transformar ideias em soluções eficientes através da programação e
 - JavaScript
 - jQuery
 - Bootstrap
-
+- WordPress
 #### Frameworks & Ferramentas
 - Flask
 - Git / GitHub
 - MySQL
 - SQLite
 - Firebase
+- Laravel
 
 ### 💼 Experiência Profissional
 
@@ -40,31 +39,56 @@ Gosto de transformar ideias em soluções eficientes através da programação e
 - Implementação de novas funcionalidades e melhorias
 - Desenvolvimento de ferramentas internas para a instituição
 
-#### <a href="https://mytempo.esp.br" target="_blank">MyTempo</a>
-Sistema de cronometragem de atletas em tempo real que:
+### 🚀 Projetos Pessoais
 
-- Monitora e exibe resultados dos atletas
-- Fornece atualizações em tempo real
-- Gera relatórios de desempenho
+#### <a href="https://advoguee.com" target="_blank">Advoguee</a>
+Sistema completo de gestão para escritórios de advocacia que oferece:
+- Gestão inteligente de clientes e documentos
+- Geração automática de documentos
+- Automação de processos administrativos
 
-#### <a href="https://suainscricao.com" target="_blank">Sua Inscrição</a>
-Sistema completo para inscrição de atletas em eventos esportivos, incluindo:
+#### <a href="https://ondbay.com" target="_blank">OndBay</a>
+Organização para prestação de serviços de desenvolvimento de software que oferece:
+- Desenvolvimento web e mobile personalizado
+- Design UI/UX com foco em experiência do usuário
+- Desenvolvimento backend e APIs robustas
+- Soluções tecnológicas inovadoras para negócios
+- Equipe certificada e especializada em tecnologia
+- Suporte técnico contínuo e atendimento personalizado
 
-- Gerenciamento de eventos esportivos
-- Inscrição para os eventos esportivos
-- Integração com processamento de pagamentos
-- Gerenciamento dos eventos e inscrições
+### 💻 Projetos Desenvolvidos
 
+#### <a href="https://agendamento.hubdocricare.com.br" target="_blank">Sistema de Agendamento UNIVC</a>
+- Plataforma de agendamento para o estúdio funcional
+- Gestão de horários e treinamentos
+- Sistema de controle de capacidade
+
+#### <a href="https://siteem7.hubdocricare.com.br" target="_blank">Site em 7 Dias</a>
+- Serviço de desenvolvimento web ágil
+- Entrega de sites profissionais em 7 dias
+
+#### <a href="https://hubdocricare.com.br" target="_blank">Hub do Cricaré</a>
+- Portal institucional da empresa
+- Showcase de projetos e serviços
+- Sistema de contato integrado
+
+#### <a href="https://aguiar.hubdocricare.com.br" target="_blank">Clínica Aguiar</a>
+- Site institucional para clínica oftalmológica
+- Área de convênios e serviços
+
+#### <a href="https://lainenutri.com.br" target="_blank">Laíne Nutri</a>
+- Site profissional para nutricionista
 
 ### 📫 Contato
 - Email: <a href="mailto:kerlon1221@gmail.com">kerlon1221@gmail.com</a>
 - GitHub: <a href="https://github.com/kerlonfernandes" target="_blank">https://github.com/kerlonfernandes</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/kerlon-fernandes/" target="_blank">https://www.linkedin.com/in/kerlon-fernandes/</a>
+- Whatsapp: <a href="wa.me/+5527997428095" target="_blank">+5527997428095</a>
 
 ---
 
 [Download CV](https://kerlon.com.br/assets/resumes/resume_pt-br.pdf) | <a href="https://kerlon.com.br/portifolio" target="_blank">Portfolio</a>
 
 ```python
-print("sim essa pagina foi desenvolvida com muito amor")
+print(":)")
 ```
