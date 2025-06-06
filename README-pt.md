@@ -1,3 +1,5 @@
+[English](./?lang=en) | [Português](./?lang=pt)
+
 <a name="português"></a>
 ## Português
 
