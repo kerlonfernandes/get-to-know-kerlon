@@ -84,7 +84,7 @@ Organization for software development services that offers:
 - Schedule and training management
 - Capacity control system
 
-#### <a href="https://siteem7.hubdocricare.com.br" target="_blank">Site in 7 Days</a>
+#### <a href="https://siteem7.hubdocricare.com.br" target="_blank">Site em 7 dias</a>
 - Agile web development service
 - Professional website delivery in 7 days
 
@@ -93,11 +93,11 @@ Organization for software development services that offers:
 - Project and services showcase
 - Integrated contact system
 
-#### <a href="https://aguiar.hubdocricare.com.br" target="_blank">Aguiar Clinic</a>
+#### <a href="https://aguiar.hubdocricare.com.br" target="_blank">Clínica Aguiar</a>
 - Institutional website for ophthalmology clinic
 - Insurance and services area
 
-#### <a href="https://lainenutri.com.br" target="_blank">Laíne Nutri</a>
+#### <a href="https://lainenutri.com.br" target="_blank">Laíne Nutricionista</a>
 - Professional website for nutritionist
 
 ### 📫 Contact
